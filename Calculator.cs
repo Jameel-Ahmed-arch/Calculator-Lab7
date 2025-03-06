@@ -16,6 +16,7 @@ else
 
 cout << "Product: " << (a * b) << endl;
  Multiplication
+cout << "This is from conflict_branch1" << endl;
 
 cout << "Difference: " << (a - b) << endl;
  Substruction
